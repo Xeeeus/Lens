@@ -1760,10 +1760,10 @@ section(RESOURCE_1 /*{{threads}}*/,1000000 /*1000000*/,1000000 /*1000000*/,0,fun
             sleep(rand(5000,7500))!
             section_end()!
 
-            section_start("", 589917193)!
-            /*Dat:eyJzIjoic2VsZWN0dGFiIiwidiI6MSwiZiI6W10sInV3IjoiMCIsInV0IjoiMCIsInV0byI6IjAiLCJ1bSI6IjAiLCJ1ZSI6IjAiLCJ1c3AiOiIwIiwiZCI6W3siaWQiOiJJbmRleCIsInR5cGUiOiJjb25zdHIiLCJkYXRhIjoiMCIsImNsYXNzIjoiaW50In1dfQ==*/
+            section_start("", 427004387)!
+            /*Dat:eyJzIjoiY2xvc2V0YWIiLCJ2IjoxLCJmIjpbXSwidXciOiIwIiwidXQiOiIwIiwidXRvIjoiMCIsInVtIjoiMCIsInVlIjoiMCIsInVzcCI6IjAiLCJkIjpbeyJpZCI6IkluZGV4IiwidHlwZSI6ImNvbnN0ciIsImRhdGEiOiIxIiwiY2xhc3MiOiJpbnQifV19*/
             /*Browser*/
-            popupselect(0)!
+            popupclose(1)!
             section_end()!
 
             section_start("", 656530093)!
@@ -3554,7 +3554,7 @@ ToolboxHeight=433
 MaxBrowserStartSimultaneously=3
 MinFreeMemoryToStartBrowser=1500
 MinUnusedCpu=35
-ScenarioWidth=623
+ScenarioWidth=655
 Zoom=100
 IsMaximized=false
 Restart=true
