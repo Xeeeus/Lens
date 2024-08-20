@@ -3,8 +3,8 @@ Written by: @smelovv.nik (TG)
 **Настройка при запуске:** `Lens.xml`
 
 **Work Mode**
-1. Create Profile
-2. Complete Profile
+1. Create Profile - создание профиля
+2. Complete Profile - заполнение профиля
 3. Random Follow - рандом ( от,до ) подписки на аккаунты
 4. Streak Post - Пост приветствие
 5. Random like - рандом ( от,до ) лайки на аккаунты
