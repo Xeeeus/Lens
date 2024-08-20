@@ -1,0 +1,50 @@
+Doctor
+Nurse
+Programmer
+Teacher
+Marketer
+Driver
+Engineer
+Lawyer
+Architect
+Police Officer
+Firefighter
+Electrician
+Carpenter
+Chef
+Dentist
+Veterinarian
+Pharmacist
+Accountant
+Financial Analyst
+Translator
+Journalist
+Photographer
+Graphic Designer
+Sales Manager
+Project Manager
+Recruiter
+Social Worker
+Psychologist
+Economist
+Scientist (Researcher)
+Actor
+Musician
+Writer
+Athlete
+Real Estate Agent
+Bartender
+Builder
+CNC Machine Operator
+Lab Technician
+Hairdresser
+Stylist
+Cosmetologist
+Librarian
+Secretary
+Logistician
+Pilot
+Flight Attendant
+Environmentalist
+Biotechnologist
+Interior Designer
