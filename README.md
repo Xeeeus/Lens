@@ -1,6 +1,7 @@
 Written by: @smelovv.nik (TG)
 
 **Настройка при запуске:** `Lens.xml`
+
 **Work Mode**
 1. Create Profile
 2. Complete Profile
