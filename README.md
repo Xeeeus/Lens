@@ -9,6 +9,7 @@ Written by: @smelovv.nik (TG)
 4. Streak Post - Пост приветствие
 5. Random like - рандом ( от,до ) лайки на аккаунты
 6. Random Post - рандом ( от,до ) посты 
+7. Mint NFT - минт HEY NFT
 
 **Script Setup**
 1. Use Finger Switcher - использовать ли отпечатки.
