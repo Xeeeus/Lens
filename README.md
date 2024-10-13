@@ -10,7 +10,7 @@ Written by: @smelovv_nik (TG)
 5. Random like - рандом ( от,до ) лайки на аккаунты
 6. Random Post - рандом ( от,до ) посты 
 7. Mint NFT - минт HEY NFT
-
+8. Вывод POL с биржи OKX
 **Script Setup**
 1. Use Finger Switcher - использовать ли отпечатки.
 2. Finger Print Key - в случае включения 1 нужно вести ключ для получения отпечатков( по умолчанию установлен ), покупается тут - https://fingerprints.bablosoft.com/
