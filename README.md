@@ -1,4 +1,4 @@
-Written by: @smelovv.nik (TG)
+Written by: @smelovv_nik (TG)
 
 **Настройка при запуске:** `Lens.xml`
 
@@ -24,3 +24,7 @@ Written by: @smelovv.nik (TG)
 `private.txt` - указывать приватники
 
 `proxy.txt` - указывать прокси
+
+`donor.txt` - список доноров для рандомных модулей
+
+`streak_posts` - список приветственных постов
